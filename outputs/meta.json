@@ -1,0 +1,11 @@
+{
+  "n_rows": 23800,
+  "n_portfolios": 35,
+  "n_months": 680,
+  "best_ls_sharpe_model": "elastic_net",
+  "elastic_net_minus_ols_sharpe": 0.05028964544592274,
+  "elastic_net_minus_baseline_sharpe": 0.14699774079944394,
+  "elastic_net_mean_oos_r2": -0.10457819942037735,
+  "ols_full_mean_oos_r2": -0.10568242202802414,
+  "hlz_note": "Judge long-short t-stats vs HLZ t>~3 after multiple tested models."
+}
