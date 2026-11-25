@@ -25,3 +25,8 @@ Read `outputs/RESEARCH_MEMO.md` first. This is **not** a stock-level WRDS replic
 5. Python version 3.11+ recommended → Deploy
 
 The app reads artifacts under `outputs/`. Re-run `scripts/run_mvp.py` locally if you need to refresh them before pushing.
+
+## Live dashboard
+
+[https://qr-gkx-lite.streamlit.app/](https://qr-gkx-lite.streamlit.app/)
+
